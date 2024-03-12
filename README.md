@@ -149,3 +149,42 @@
 |----------|----------|
 |![스크린샷(11)](https://github.com/Dejong1706/MyBlog/assets/75114974/30f03da1-122d-4862-8277-0cc7d756a3c2)|![스크린샷(12)](https://github.com/Dejong1706/MyBlog/assets/75114974/7ab480d8-4a50-4b75-8935-cd13d3f2d229)|
 
+<br>
+
+## [경보 이력]
+- 담당 도어들의 경보 이력을 확인 할 수 있습니다.
+- 건물명, 도어명, 비콘ID, 날짜, 시간, 관리자이름을 확인할 수 있습니다.
+- 엑셀 아이콘을 클릭하여 출입 기록을 csv파일로 다운받을 수 있습니다.
+
+| 경보 이력 |
+|----------|
+|![스크린샷(13)](https://github.com/Dejong1706/MyBlog/assets/75114974/e2cdd5c7-23e4-4dc0-90b5-a89d75f07623)|
+
+<br>
+
+## [경보 이력]
+- 발송된 문자들의 이력을 확인할 수 있습니다.
+- 건물명, 출입문명, 비콘ID, 발송날짜, 시간, 관리자명, 문자발송 상태를 확인할 수 있습니다.
+
+| 문자발생 이력 |
+|----------|
+|![스크린샷(14)](https://github.com/Dejong1706/MyBlog/assets/75114974/cbc4bc68-ef95-4da2-95ec-fe19cc29a5fd)|
+
+<br>
+
+## 5. 시스템 flow
+
+| flow |
+|----------|
+|![스크린샷(15)](https://github.com/Dejong1706/MyBlog/assets/75114974/3743c553-d3f5-4e7d-86ad-e0b5eda1a499)|
+
+<br>
+
+## 6. Database ERD
+
+| ERD |
+|----------|
+|![스크린샷(16)](https://github.com/Dejong1706/MyBlog/assets/75114974/cbba7fa9-f424-41cf-a1c8-8b883e607898)|
+
+<br>
+
