@@ -106,6 +106,7 @@
 | 출입문 관리설정 | 관리설정 모달 |
 |----------|----------|
 |![스크린샷(3)](https://github.com/Dejong1706/MyBlog/assets/75114974/8b799430-806e-4d0d-b51a-6681eb5309e1)|![스크린샷(4)](https://github.com/Dejong1706/MyBlog/assets/75114974/6137b2ef-f900-4735-8ef2-031175633605)|
+![스크린샷(4)](https://github.com/Dejong1706/MyBlog/assets/75114974/0289b439-fd0c-4b3e-b629-927abcc43dc7)|
 
 <br>
 
@@ -123,7 +124,8 @@
 - 개방여부 체크시 해당 도어의 문이 열리게 됩니다.
 
 | 출입문 입출이력 | 방문자 예약승인 | 비상도어 개방 |
-|----------|----------|-용
+|----------|----------|----------|
+|![스크린샷(5)](https://github.com/Dejong1706/MyBlog/assets/75114974/c7662234-8f71-4985-846a-14d42ae3bc24)|![스크린샷(6)](https://github.com/Dejong1706/MyBlog/assets/75114974/9df7f2fe-e057-403e-892e-d848176aaabd)|![스크린샷(7)](https://github.com/Dejong1706/MyBlog/assets/75114974/995a75bf-8bd1-48f9-a6d2-e53912e5452a)|
     
 
 
