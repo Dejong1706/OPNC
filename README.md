@@ -28,10 +28,10 @@
 
 ## 1. 개발 환경
 
-- Front : NextJs, Tailwindcss, typescript, jwt, socket.io, dayjs, react-calendar
-- Back-end : express.js, typescript, bcrypt, jwt
+- Front : NextJs, javascript, jwt, dayjs, react-calendar, chakra UI
+- Back-end : express.js, mysql, bcrypt, jwt
+- App: flutter
 - 버전 및 이슈관리 : Github
-- 협업 툴 : Discord
  
 <br>
 
