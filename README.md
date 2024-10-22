@@ -1,5 +1,5 @@
 
-# 실시간 채팅 서비스 웹 
+# 스마트 비콘을 이용한 관리자용 입출이력 관리 애플리케이션
 
 ![README logo](https://user-images.githubusercontent.com/32566767/201516950-1ba2ce35-2be3-4840-bc2f-ff436d4a3602.png)
 
